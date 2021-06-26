@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="التلفزيون " ,Algeria 1 الأولى
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" ,Canal Algérie الثانية
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" ,A3 News الإخبارية 
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" , TV 4 Tamazighth الأمازيغية
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" ,TV 5 Quran القرآن الكريم
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" ,Algeria 6 السّادسة
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" , TV 7 El Maarifa المعرفة
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" ,TV 8 Edhakira الذّاكرة
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" , El Bilad البلاد
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" , Echorouk HD الشروق 
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png" ,El Djazairia الجزايرية
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar News النهار 
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk News الشروق الإخبارية
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" ,Bahia TV Oran الباهية
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" ,El Hayat الحياة 
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" ,El Heddaf Sport الهدّاف
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png" ,Lina TV لينا
+https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" ,Samira TV سميرة 
+https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" ,EL Aniss الأنيس
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" ,El Fadjr SBA الفجر
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/21_picture.jpeg" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
+https://cdn.hta.dz/live/chaine1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/24_picture.png" ,Chaine 2 Tamazighth الثّانية
+https://cdn.hta.dz/live/chaine2/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/25_picture.png" ,Chaine 3 FR
+https://cdn.hta.dz/live/chaine3/chunks.m3u8
+#EXTINF:-1  tvg-logo="" ,Culture الثّقافية
+https://cdn.hta.dz/live/culture/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/27_picture.png" ,Internationale الدّولية
+https://cdn.hta.dz/live/radio_ai/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/23_picture.png" ,Coran القرآن الكريم
+https://cdn.hta.dz/live/radio_multi/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/26_picture.png" ,El Bahdja البهجة
+https://cdn.hta.dz/live/EL_BAHDJA/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/20_picture.png" ,Jil FM
+https://cdn.hta.dz/live/jil-fm/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/71_picture.png" ,Jil FM Music
+https://cdn.hta.dz/live/jil-fmmusic/chunks.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/74_picture.jpeg" group-title="الإذاعة المحلّية" ,Radio Adrar أدرار
+https://cdn.hta.dz/live/01/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/75_picture.jpeg" ,Radio Chlef الشلف 
+https://cdn.hta.dz/live/02/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/76_picture.jpeg" ,Radio Laghouat الأغواط
+https://cdn.hta.dz/live/03/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/77_picture.jpeg" ,Radio Oum El Bouaqui أم البواقي
+https://cdn.hta.dz/live/04/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/78_picture.jpeg" ,Radio Batna باتنة
+https://cdn.hta.dz/live/05/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/79_picture.jpeg" ,Radio Béjaia بجاية
+https://cdn.hta.dz/live/06/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/80_picture.jpeg" ,Biskra بسكرة
+https://cdn.hta.dz/live/07/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/81_picture.jpeg" ,Béchar بشار
+https://cdn.hta.dz/live/08/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/82_picture.jpeg" ,Blida البليدة
+https://cdn.hta.dz/live/09/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/83_picture.jpeg" ,Bouira البويرة 
+https://cdn.hta.dz/live/10/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/84_picture.jpeg" ,Tamenghasst تامنغست
+https://cdn.hta.dz/live/11/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/85_picture.jpeg" ,Tébessa تبسة
+https://cdn.hta.dz/live/12/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/86_picture.jpeg" ,tlemcen تلمسان
+https://cdn.hta.dz/live/13/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/87_picture.jpeg" ,Tiaret تيارت
+https://cdn.hta.dz/live/14/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/88_picture.jpeg" ,Tizi Ouazou تيزي وزو
+https://cdn.hta.dz/live/15/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/89_picture.jpeg" ,Djelfa الجلفة
+https://cdn.hta.dz/live/17/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/90_picture.jpeg" ,Jijel جيجل
+https://cdn.hta.dz/live/18/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/91_picture.jpeg" ,Séttif سطيف
+https://cdn.hta.dz/live/19/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/92_picture.jpeg" ,Saaida سعيدة
+https://cdn.hta.dz/live/20/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/93_picture.jpeg" ,Skikda سكيكدة
+https://cdn.hta.dz/live/21/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/94_picture.jpeg" ,Sidi Belaabas سيدي بلعباس
+https://cdn.hta.dz/live/22/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/95_picture.jpeg" ,Annaba عنابة
+https://cdn.hta.dz/live/23/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/96_picture.jpeg" ,Guelma قالمة
+https://cdn.hta.dz/live/24/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/97_picture.jpeg" ,Constantine قسنطينة
+https://cdn.hta.dz/live/25/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/98_picture.jpeg" ,Médéa المدية 
+https://cdn.hta.dz/live/26/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/99_picture.jpeg" ,Mostaganem مستغانم 
+https://cdn.hta.dz/live/27/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/100_picture.jpeg" ,M'sila المسيلة
+https://cdn.hta.dz/live/28/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/101_picture.jpeg" ,Mascara معسكر
+https://cdn.hta.dz/live/29/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/102_picture.jpeg" ,Ourgla ورقلة 
+https://cdn.hta.dz/live/30/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/103_picture.jpeg" ,Oran وهران
+https://cdn.hta.dz/live/31/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/104_picture.jpeg" ,El Bayadh البيض
+https://cdn.hta.dz/live/32/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/105_picture.jpeg" ,Illizi إليزي
+https://cdn.hta.dz/live/33/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/106_picture.jpeg" ,Bordj Bou Ariridj برج بوعريريج
+https://cdn.hta.dz/live/34/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/107_picture.jpeg" ,Boumerdés بومرداس 
+https://cdn.hta.dz/live/35/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/108_picture.jpeg" ,'Taref الطارف
+https://cdn.hta.dz/live/36/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/109_picture.jpeg" ,Tindouf تندوف
+https://cdn.hta.dz/live/37/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/110_picture.jpeg" ,Tissemssilt تيسمسيلت
+https://cdn.hta.dz/live/38/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/111_picture.jpeg" ,El Oued الوادي
+https://cdn.hta.dz/live/39/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/112_picture.jpeg" ,Khenchella خنشلة
+https://cdn.hta.dz/live/40/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/113_picture.jpeg" ,Souq Ahrass سوق أهراس
+https://cdn.hta.dz/live/41/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/114_picture.jpeg" ,Tipaza تيبازة
+https://cdn.hta.dz/live/42/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/115_picture.jpeg" ,Milla ميلة 
+https://cdn.hta.dz/live/43/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/116_picture.jpeg" ,Ain Defla عين الدفلة
+https://cdn.hta.dz/live/44/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/117_picture.jpeg" ,Naama النعامة 
+https://cdn.hta.dz/live/45/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/118_picture.jpeg" ,Ain Temouchent عين تموشنت
+https://cdn.hta.dz/live/46/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/119_picture.jpeg" ,Ghardaia غارداية
+https://cdn.hta.dz/live/47/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/120_picture.jpeg" ,Ghélizane غليزان 
+https://cdn.hta.dz/live/48/chunks.m3u8
+
+
