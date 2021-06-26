@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/21_picture.jpeg" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
+https://cdn.hta.dz/live/chaine1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/24_picture.png" ,Chaine 2 Tamazighth الثّانية
+https://cdn.hta.dz/live/chaine2/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/25_picture.png" ,Chaine 3 FR
+https://cdn.hta.dz/live/chaine3/chunks.m3u8
+#EXTINF:-1  tvg-logo="" ,Culture الثّقافية
+https://cdn.hta.dz/live/culture/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/27_picture.png" ,Internationale الدّولية
+https://cdn.hta.dz/live/radio_ai/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/23_picture.png" ,Coran القرآن الكريم
+https://cdn.hta.dz/live/radio_multi/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/26_picture.png" ,El Bahdja البهجة
+https://cdn.hta.dz/live/EL_BAHDJA/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/20_picture.png" ,Jil FM
+https://cdn.hta.dz/live/jil-fm/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/71_picture.png" ,Jil FM Music
+https://cdn.hta.dz/live/jil-fmmusic/chunks.m3u8
+
