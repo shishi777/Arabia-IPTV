@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/21_picture.jpeg" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
-https://ch1.ice.infomaniak.ch/ch1-32.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/24_picture.png" ,Chaine 2 Tamazighth الثّانية
-https://ch1.ice.infomaniak.ch/ch2-32.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/25_picture.png" ,Chaine 3 FR
-https://ch1.ice.infomaniak.ch/ch3-32.aac
-#EXTINF:-1  tvg-logo="" ,Culture الثّقافية
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
+https://ch1.ice.infomaniak.ch/ch1-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png" ,Chaine 2 Tamazighth الثّانية
+https://ch1.ice.infomaniak.ch/ch2-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/ch-3.png" ,Chaine 3 FR
+https://ch1.ice.infomaniak.ch/ch3-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png" ,Culture الثّقافية
 https://culture.ice.infomaniak.ch/culture.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/27_picture.png" ,Internationale الدّولية
-https://rai.ice.infomaniak.ch/rai-32.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/23_picture.png" ,Coran القرآن الكريم
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png" ,Internationale الدّولية
+https://rai.ice.infomaniak.ch/rai-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png" ,Coran القرآن الكريم
 https://coran.ice.infomaniak.ch/coran.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/26_picture.png" ,El Bahdja البهجة
-https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/20_picture.png" ,Jil FM
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png" ,El Bahdja البهجة
+https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png" ,Jil FM
 https://jil-fm.ice.infomaniak.ch/jilfm.aac
 
