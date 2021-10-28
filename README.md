@@ -1,2 +1,2 @@
 # IPTV-Algeria
-tv &amp; radio in algeria
+tv &amp; radio from algeria
