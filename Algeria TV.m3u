@@ -1,46 +1,46 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="التلفزيون " ,Algeria 1 الأولى
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078536484.png" group-title="التلفزيون " ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" ,Canal Algérie الثانية
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078557850.png" ,Canal Algérie الثانية
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" ,A3 News الإخبارية 
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078590652.png" ,A3 News الإخبارية 
 https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" , TV 4 Tamazighth الأمازيغية
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078615398.png" , TV 4 Tamazighth الأمازيغية
 https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" ,TV 5 Quran القرآن الكريم
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078647841.png" ,TV 5 Quran القرآن الكريم
 https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" ,Algeria 6 السّادسة
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078677543.png" ,Algeria 6 السّادسة
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" , TV 7 El Maarifa المعرفة
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" ,TV 8 Edhakira الذّاكرة
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" , El Bilad البلاد
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
-https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" , Echorouk HD الشروق 
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png" ,El Djazairia الجزايرية
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" , Echorouk HD الشروق 
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar News النهار 
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk News الشروق الإخبارية
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" ,Bahia TV Oran الباهية
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" ,El Hayat الحياة 
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" ,El Heddaf Sport الهدّاف
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png" ,Lina TV لينا
-https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" ,Samira TV سميرة 
-https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" ,EL Aniss الأنيس
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" ,El Fadjr SBA الفجر
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://al24news.com/wp-content/uploads/2021/10/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+
+#EXTINF:-1  tvg-logo="https://www.brtvpro.tv/defaults/all/images/logo-tv-over.png" ,BERBERE TV 
+
 
