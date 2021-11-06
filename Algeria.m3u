@@ -1,165 +1,164 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="التلفزيون " ,Algeria 1 الأولى
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" ,Canal Algérie الثانية
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" ,A3 News الإخبارية 
-https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" , TV 4 Tamazighth الأمازيغية
-https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" ,TV 5 Quran القرآن الكريم
-https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" ,Algeria 6 السّادسة
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078536484.png" group-title="التلفزيون " ,Algeria 1 الأولى
+https://itv033023.at.dz:6630/001/2/ch00000090990000001035/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1689320211106091824000047&programid=ch00000000000000001021&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001021&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJQs4dgpxjFmneBoZEXV1HAc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001035
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078557850.png" ,Canal Algérie الثانية
+https://itv033025.at.dz:6630/001/2/ch00000090990000001022/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1691920211106091914000058&programid=ch00000000000000001017&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001017&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJIbiRA8TA0cW1pqcQTX4w%2BRc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001022
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078590652.png" ,A3 News الإخبارية 
+https://itv033023.at.dz:6630/001/2/ch00000090990000001024/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1690220211106091955000042&programid=ch00000000000000001018&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001018&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJ7n7%2FS%2B8ohFwS1aFf8qaUAc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001024
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078615398.png" , TV 4 Tamazighth الأمازيغية
+https://itv033022.at.dz:6630/001/2/ch00000090990000001026/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1691220211106092018000050&programid=ch00000000000000001019&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001019&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJje99eQi3bJrLVgIqkkH61c6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001026
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078647841.png" ,TV 5 Quran القرآن الكريم
+https://itv033022.at.dz:6630/001/2/ch00000090990000001033/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1690720211106092055000052&programid=ch00000000000000001020&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001020&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJI%2F1ckmCqrsEMflf%2FPHpPrbc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001033
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078677543.png" ,Algeria 6 السّادسة
+https://itv033023.at.dz:6630/001/2/ch00000090990000001045/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1692020211106092125000051&programid=ch00000000000000001026&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001026&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJIJENXkpYgMjgErBtB1gePzc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001045
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" , TV 7 El Maarifa المعرفة
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" ,TV 8 Edhakira الذّاكرة
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" , El Bilad البلاد
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
-https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" , Echorouk HD الشروق 
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png" ,El Djazairia الجزايرية
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" , Echorouk HD الشروق 
+https://itv033027.at.dz:6630/001/2/ch00000090990000001039/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1692120211106092159000040&programid=ch00000000000000001023&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001023&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJLATN8Oj6Ne%2BjdQbuuU6D40c6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001039
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar News النهار 
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+https://itv033024.at.dz:6630/001/2/ch00000090990000001037/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1689820211106092242000056&programid=ch00000000000000001022&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001022&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJaV8f2q2qfT9cCsjjZi9hoc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001037
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk News الشروق الإخبارية
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+https://itv033021.at.dz:6630/001/2/ch00000090990000001059/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1690820211106092307000043&programid=ch00000000000000001039&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001039&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJKLJjsPZmj3E5RIMNyoIdO8c6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001059
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" ,Bahia TV Oran الباهية
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" ,El Hayat الحياة 
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+https://itv033026.at.dz:6630/001/2/ch00000090990000001041/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1690920211106092339000050&programid=ch00000000000000001024&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001024&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJI8RAsr2CRFzQuaKOV10BXEc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001041
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" ,El Heddaf Sport الهدّاف
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png" ,Lina TV لينا
-https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" ,Samira TV سميرة 
-https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" ,EL Aniss الأنيس
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" ,El Fadjr SBA الفجر
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://al24news.com/wp-content/uploads/2021/10/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+
+#EXTINF:-1  tvg-logo="https://www.brtvpro.tv/defaults/all/images/logo-tv-over.png" ,BERBERE TV 
 
 
 
 
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/21_picture.jpeg" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
-https://cdn.hta.dz/live/chaine1/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/24_picture.png" ,Chaine 2 Tamazighth الثّانية
-https://cdn.hta.dz/live/chaine2/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/25_picture.png" ,Chaine 3 FR
-https://cdn.hta.dz/live/chaine3/chunks.m3u8
-#EXTINF:-1  tvg-logo="" ,Culture الثّقافية
-https://cdn.hta.dz/live/culture/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/27_picture.png" ,Internationale الدّولية
-https://cdn.hta.dz/live/radio_ai/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/23_picture.png" ,Coran القرآن الكريم
-https://cdn.hta.dz/live/radio_multi/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/26_picture.png" ,El Bahdja البهجة
-https://cdn.hta.dz/live/EL_BAHDJA/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/20_picture.png" ,Jil FM
-https://cdn.hta.dz/live/jil-fm/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/71_picture.png" ,Jil FM Music
-https://cdn.hta.dz/live/jil-fmmusic/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
+https://ch1.ice.infomaniak.ch/ch1-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png" ,Chaine 2 Tamazighth الثّانية
+https://ch1.ice.infomaniak.ch/ch2-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/ch-3.png" ,Chaine 3 FR
+https://ch1.ice.infomaniak.ch/ch3-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png" ,Culture الثّقافية
+https://culture.ice.infomaniak.ch/culture.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png" ,Internationale الدّولية
+https://rai.ice.infomaniak.ch/rai-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png" ,Coran القرآن الكريم
+https://coran.ice.infomaniak.ch/coran.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png" ,El Bahdja البهجة
+https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png" ,Jil FM
+https://jil-fm.ice.infomaniak.ch/jilfm.aac
+#EXTINF:-1  tvg-logo="https://www.brtvpro.tv/defaults/all/images/logo-antinea-over.png" ,RADIO ANTINEA BERBERE GR
+https://listen.radioking.com/radio/6640/stream/63289
 
 
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/74_picture.jpeg" group-title="الإذاعة المحلّية" ,Radio Adrar أدرار
-https://cdn.hta.dz/live/01/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/75_picture.jpeg" ,Radio Chlef الشلف 
-https://cdn.hta.dz/live/02/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/76_picture.jpeg" ,Radio Laghouat الأغواط
-https://cdn.hta.dz/live/03/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/77_picture.jpeg" ,Radio Oum El Bouaqui أم البواقي
-https://cdn.hta.dz/live/04/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/78_picture.jpeg" ,Radio Batna باتنة
-https://cdn.hta.dz/live/05/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/79_picture.jpeg" ,Radio Béjaia بجاية
-https://cdn.hta.dz/live/06/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/80_picture.jpeg" ,Biskra بسكرة
-https://cdn.hta.dz/live/07/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/81_picture.jpeg" ,Béchar بشار
-https://cdn.hta.dz/live/08/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/82_picture.jpeg" ,Blida البليدة
-https://cdn.hta.dz/live/09/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/83_picture.jpeg" ,Bouira البويرة 
-https://cdn.hta.dz/live/10/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/84_picture.jpeg" ,Tamenghasst تامنغست
-https://cdn.hta.dz/live/11/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/85_picture.jpeg" ,Tébessa تبسة
-https://cdn.hta.dz/live/12/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/86_picture.jpeg" ,tlemcen تلمسان
-https://cdn.hta.dz/live/13/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/87_picture.jpeg" ,Tiaret تيارت
-https://cdn.hta.dz/live/14/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/88_picture.jpeg" ,Tizi Ouazou تيزي وزو
-https://cdn.hta.dz/live/15/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/89_picture.jpeg" ,Djelfa الجلفة
-https://cdn.hta.dz/live/17/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/90_picture.jpeg" ,Jijel جيجل
-https://cdn.hta.dz/live/18/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/91_picture.jpeg" ,Séttif سطيف
-https://cdn.hta.dz/live/19/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/92_picture.jpeg" ,Saaida سعيدة
-https://cdn.hta.dz/live/20/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/93_picture.jpeg" ,Skikda سكيكدة
-https://cdn.hta.dz/live/21/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/94_picture.jpeg" ,Sidi Belaabas سيدي بلعباس
-https://cdn.hta.dz/live/22/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/95_picture.jpeg" ,Annaba عنابة
-https://cdn.hta.dz/live/23/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/96_picture.jpeg" ,Guelma قالمة
-https://cdn.hta.dz/live/24/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/97_picture.jpeg" ,Constantine قسنطينة
-https://cdn.hta.dz/live/25/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/98_picture.jpeg" ,Médéa المدية 
-https://cdn.hta.dz/live/26/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/99_picture.jpeg" ,Mostaganem مستغانم 
-https://cdn.hta.dz/live/27/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/100_picture.jpeg" ,M'sila المسيلة
-https://cdn.hta.dz/live/28/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/101_picture.jpeg" ,Mascara معسكر
-https://cdn.hta.dz/live/29/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/102_picture.jpeg" ,Ourgla ورقلة 
-https://cdn.hta.dz/live/30/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/103_picture.jpeg" ,Oran وهران
-https://cdn.hta.dz/live/31/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/104_picture.jpeg" ,El Bayadh البيض
-https://cdn.hta.dz/live/32/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/105_picture.jpeg" ,Illizi إليزي
-https://cdn.hta.dz/live/33/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/106_picture.jpeg" ,Bordj Bou Ariridj برج بوعريريج
-https://cdn.hta.dz/live/34/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/107_picture.jpeg" ,Boumerdés بومرداس 
-https://cdn.hta.dz/live/35/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/108_picture.jpeg" ,'Taref الطارف
-https://cdn.hta.dz/live/36/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/109_picture.jpeg" ,Tindouf تندوف
-https://cdn.hta.dz/live/37/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/110_picture.jpeg" ,Tissemssilt تيسمسيلت
-https://cdn.hta.dz/live/38/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/111_picture.jpeg" ,El Oued الوادي
-https://cdn.hta.dz/live/39/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/112_picture.jpeg" ,Khenchella خنشلة
-https://cdn.hta.dz/live/40/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/113_picture.jpeg" ,Souq Ahrass سوق أهراس
-https://cdn.hta.dz/live/41/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/114_picture.jpeg" ,Tipaza تيبازة
-https://cdn.hta.dz/live/42/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/115_picture.jpeg" ,Milla ميلة 
-https://cdn.hta.dz/live/43/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/116_picture.jpeg" ,Ain Defla عين الدفلة
-https://cdn.hta.dz/live/44/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/117_picture.jpeg" ,Naama النعامة 
-https://cdn.hta.dz/live/45/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/118_picture.jpeg" ,Ain Temouchent عين تموشنت
-https://cdn.hta.dz/live/46/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/119_picture.jpeg" ,Ghardaia غارداية
-https://cdn.hta.dz/live/47/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/120_picture.jpeg" ,Ghélizane غليزان 
-https://cdn.hta.dz/live/48/chunks.m3u8
 
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png" group-title="الإذاعة المحلّية" ,Radio Adrar أدرار
+https://adrar.ice.infomaniak.ch/01.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---002.png" ,Radio Chlef الشلف 
+https://chlef.ice.infomaniak.ch/02.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---003.png" ,Radio Laghouat الأغواط
+https://laghouat.ice.infomaniak.ch/03.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---004.png" ,Radio Oum El Bouaqui أم البواقي
+
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---005.png" ,Radio Batna باتنة
+https://batna.ice.infomaniak.ch/05.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---006.png" ,Radio Béjaia بجاية
+https://bejaia.ice.infomaniak.ch/06.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---007.png" ,Biskra بسكرة
+https://biskra.ice.infomaniak.ch/07.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---008.png" ,Béchar بشار
+https://bechar.ice.infomaniak.ch/08.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---009.png" ,Blida البليدة
+https://blida.ice.infomaniak.ch/09.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---010.png" ,Bouira البويرة 
+https://bouira.ice.infomaniak.ch/10.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---011.png" ,Tamenghasst تامنغست
+https://tamenraset.ice.infomaniak.ch/11.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---012.png" ,Tébessa تبسة
+https://tebessa.ice.infomaniak.ch/12.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---013.png" ,tlemcen تلمسان
+https://tlemcen.ice.infomaniak.ch/13.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---014.png" ,Tiaret تيارت
+https://tiaret.ice.infomaniak.ch/14.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---015.png" ,Tizi Ouazou تيزي وزو
+https://tiziouzou.ice.infomaniak.ch/15.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---017.png" ,Djelfa الجلفة
+https://djelfa.ice.infomaniak.ch/17.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---018.png" ,Jijel جيجل
+https://jijel.ice.infomaniak.ch/18.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---019.png" ,Séttif سطيف
+https://setif.ice.infomaniak.ch/19.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---020.png" ,Saaida سعيدة
+https://saida.ice.infomaniak.ch/20.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---021.png" ,Skikda سكيكدة
+https://skikda.ice.infomaniak.ch/21.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---022.png" ,Sidi Belaabas سيدي بلعباس
+https://sidibelabas.ice.infomaniak.ch/22.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---023.png" ,Annaba عنابة
+https://annaba.ice.infomaniak.ch/23.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---024.png" ,Guelma قالمة
+https://guelma.ice.infomaniak.ch/24.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---025.png" ,Constantine قسنطينة
+https://Constantine.ice.infomaniak.ch/25.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---026.png" ,Médéa المدية 
+https://medea.ice.infomaniak.ch/26.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---027.png" ,Mostaganem مستغانم 
+https://mostaganem.ice.infomaniak.ch/27.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png" ,M'sila المسيلة
+https://msila.ice.infomaniak.ch/28.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---029.png" ,Mascara معسكر
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---030.png" ,Ourgla ورقلة 
+https://ourgla.ice.infomaniak.ch/30.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---031.png" ,Oran وهران
+https://oran.ice.infomaniak.ch/31.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---032.png" ,El Bayadh البيض
+https://elbayadh.ice.infomaniak.ch/32.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---033.png" ,Illizi إليزي
+https://illizi.ice.infomaniak.ch/33.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---034.png" ,Bordj Bou Ariridj برج بوعريريج
+https://bordjbouariridj.ice.infomaniak.ch/34.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---035.png" ,Boumerdés بومرداس 
+https://boumerdes.ice.infomaniak.ch/35.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---036.png" ,'Taref الطارف
+https://taref.ice.infomaniak.ch/36.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---037.png" ,Tindouf تندوف
+https://tindouf.ice.infomaniak.ch/37.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---038.png" ,Tissemssilt تيسمسيلت
+https://tissemssilt.ice.infomaniak.ch/38.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---039.png" ,El Oued الوادي
+https://eloued.ice.infomaniak.ch/39.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---040.png" ,Khenchella خنشلة
+https://khenchella.ice.infomaniak.ch/40.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---041.png" ,Souq Ahrass سوق أهراس
+https://soukahrass.ice.infomaniak.ch/41.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---042.png" ,Tipaza تيبازة
+https://tipaza.ice.infomaniak.ch/42.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---043.png" ,Milla ميلة 
+https://milla.ice.infomaniak.ch/43.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---044.png" ,Ain Defla عين الدفلة
+https://aindefla.ice.infomaniak.ch/44.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---045.png" ,Naama النعامة 
+https://naama.ice.infomaniak.ch/45.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---046.png" ,Ain Temouchent عين تموشنت
+https://aintemouchent.ice.infomaniak.ch/46.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---047.png" ,Ghardaia غارداية
+https://ghardaia.ice.infomaniak.ch/47.aac
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---048.png" ,Ghélizane غليزان 
+https://ghelizane.ice.infomaniak.ch/48.aac
 
