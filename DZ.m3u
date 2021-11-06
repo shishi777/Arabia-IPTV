@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078536484.png" group-title="التلفزيون " ,Algeria 1 الأولى
 https://itv033023.at.dz:6630/001/2/ch00000090990000001035/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1689320211106091824000047&programid=ch00000000000000001021&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001021&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJQs4dgpxjFmneBoZEXV1HAc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001035
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078557850.png" ,Canal Algérie الثانية
@@ -19,7 +19,7 @@ https://itv033023.at.dz:6630/001/2/ch00000090990000001045/manifest.mpd?JITPDRMTy
 
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" , Echorouk HD الشروق 
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" , Echorouk HD الشروق 
 https://itv033027.at.dz:6630/001/2/ch00000090990000001039/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1692120211106092159000040&programid=ch00000000000000001023&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001023&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJLATN8Oj6Ne%2BjdQbuuU6D40c6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001039
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar News النهار 
 https://itv033024.at.dz:6630/001/2/ch00000090990000001037/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1689820211106092242000056&programid=ch00000000000000001022&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001022&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJaV8f2q2qfT9cCsjjZi9hoc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001037
