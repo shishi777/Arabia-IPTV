@@ -1,13 +1,18 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
-#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078536484.png" group-title="التلفزيون " ,Algeria 1
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078536484.png" group-title="التلفزيون TV" ,Algeria 1 الأولى
 
-#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078557850.png" ,Canal Algérie 
-الثانية
+#EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078557850.png" ,Canal Algérie الثانية
+
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078590652.png" ,A3 News الإخبارية 
+
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078615398.png" , TV 4 Tamazighth الأمازيغية
+
+
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078647841.png" ,TV 5 Quran القرآن الكريم
-http://56.1fgounkour.xyz/live/004/index.m3u8?t=Idyr6JMMgHDc0xzkFaUOug&e=1642940776&fbclid=IwAR1kq2e8kbWcIpuWDdF0NCTcLXlQAk3bIPnui2g4ZT9sRTBy5VHGxz_QW6E
+
+
 #EXTINF:-1  tvg-logo="https://itvepg2.at.dz/iptvepg/images/markurl/mark_1593078677543.png" ,Algeria 6 السّادسة
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" , TV 7 El Maarifa المعرفة
 
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" ,TV 8 Edhakira الذّاكرة
@@ -17,19 +22,19 @@ http://56.1fgounkour.xyz/live/004/index.m3u8?t=Idyr6JMMgHDc0xzkFaUOug&e=16429407
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
 
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" , Echorouk HD الشروق 
-http://56.1fgounkour.xyz:80/live/015/index.m3u8?t=p5XWPdWLOJaBg6CQ3ifI2Q&e=1642941196
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar News النهار 
-https://itv033024.at.dz:6630/001/2/ch00000090990000001037/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1689820211106092242000056&programid=ch00000000000000001022&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001022&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJJaV8f2q2qfT9cCsjjZi9hoc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001037
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk News الشروق الإخبارية
-http://56.1fgounkour.xyz/live/014/index.m3u8?t=dW94T7LrgAtLZBMEYnWSvg&e=1642940283&fbclid=IwAR2a5RHKlmYZBxx0zB7EyHLsilO69KprMkfVEXiiiLqZOjttyChz7Y6nbIw
+
+#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk News  الشروق الإخبارية
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" ,Bahia TV Oran الباهية
 
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" ,El Hayat الحياة 
-https://itv033026.at.dz:6630/001/2/ch00000090990000001041/manifest.mpd?JITPDRMType=Widevine&version=v1.0&IASHttpSessionId=RR1690920211106092339000050&programid=ch00000000000000001024&virtualDomain=001.live_hls.zte.com&recommendtype=0&ctype=4&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=4&contentid=ch00000000000000001024&BreakPoint=0&NeedJITP=1&AuthInfo=QyaWu79NZOkTFRoEdUResBF8FUZQuIhUmDvxGQmCGJI8RAsr2CRFzQuaKOV10BXEc6l%2BmK6q%2FE%2BfMu852MXd0w%3D%3D&stbid=&userid=guestpc&videoid=ch00000090990000001041
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" ,El Heddaf Sport الهدّاف
 
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" ,Samira TV سميرة 
-http://56.1fgounkour.xyz/live/054/index.m3u8?t=64qJIJYfCGlC3jjwGBxXpA&e=1642940654&fbclid=IwAR1RiHNS53VHWNHnDXT68lBT-sOmHpWtlLKguNF6sM1x7GuUKEVejJBXWlQ
+
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" ,EL Aniss الأنيس
 
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
@@ -44,7 +49,7 @@ http://56.1fgounkour.xyz/live/054/index.m3u8?t=64qJIJYfCGlC3jjwGBxXpA&e=16429406
 
 
 
-#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png" group-title="الإذاعة الوطنية" ,Chaine 1 الأولى
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png" group-title=" RADIO NATالإذاعة الوطنية" ,Chaine 1 الأولى
 https://ch1.ice.infomaniak.ch/ch1-64.aac
 #EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png" ,Chaine 2 Tamazighth الثّانية
 https://ch1.ice.infomaniak.ch/ch2-64.aac
@@ -65,7 +70,7 @@ https://listen.radioking.com/radio/6640/stream/63289
 
 
 
-#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png" group-title="الإذاعة المحلّية" ,Radio Adrar أدرار
+#EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png" group-title="الإذاعة المحلّية RADIO LOCALE" ,Radio Adrar أدرار
 https://adrar.ice.infomaniak.ch/01.aac
 #EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---002.png" ,Radio Chlef الشلف 
 https://chlef.ice.infomaniak.ch/02.aac
