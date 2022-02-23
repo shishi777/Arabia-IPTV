@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="التلفزيون TV 📺 " ,Algeria 1 الأولى
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="National" ,Algeria 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2.png" ,Canal Algérieالثانية
 
@@ -24,37 +24,31 @@
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/R4TGWHW/echorouknews.png" ,Echorouk News الشروق الإخبارية
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/x7JWhH5/ennahar.png" ,Ennahar News النهار 
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WkyGSZL/bahia.jpg" ,Bahia TV Oran الباهية
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/98HJ3Ds/elhayat.png" ,El Hayat الحياة 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/CBDyrNJ/elheddaf.png" ,El Heddaf Sport الهدّاف
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LnVqTnH/samira.png" ,Samira TV سميرة 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FK3hXp2/zahra.jpg" ,Zahra TV زهرة
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/wSfH7Y5/Elanis.png" ,EL Aniss الأنيس
-
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2v8zg2w/El-Fadjer.png" ,El Fadjr SBA الفجر
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Kzggt6D/Al24News.png",AL24NEWS قناة الجزائر الدّولية
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PtXDf6N/elwatania.png",El Watania الوطنية
 
+EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/R4TGWHW/echorouknews.png" group-title="News",Echorouk News الشروق الإخبارية
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+#EXTINF:-1  tvg-logo="https://i.ibb.co/x7JWhH5/ennahar.png" ,Ennahar News النهار 
+https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Kzggt6D/Al24News.png",AL24NEWS قناة الجزائر الدّولية
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WkyGSZL/bahia.jpg"group-title="Local" ,Bahia TV Oran الباهية
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2v8zg2w/El-Fadjer.png" ,El Fadjr SBA الفجر
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Mf9RhH5/berbere.jpg" ,BERBERE TV 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/CBDyrNJ/elheddaf.png" group-title="Sports",El Heddaf Sport الهدّاف
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LnVqTnH/samira.png" group-title="Women's" ,Samira TV سميرة 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FK3hXp2/zahra.jpg" ,Zahra TV زهرة
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/wSfH7Y5/Elanis.png" group-title="Religion",EL Aniss الأنيس
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Qnz3GWK/ch1.png" group-title=" 📻 Radio Nationale الإذاعة الوطنية" ,Chaine 1 الأولى
 https://ch1.ice.infomaniak.ch/ch1-64.aac
