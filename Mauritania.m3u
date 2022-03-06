@@ -1,0 +1,42 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/g4fpLzV/mau1tv.png" ,Mauritania 1 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCK3909NQ9meg2KDYKF51Kmg/live
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Mauritania 2 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الثقافية
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الرياضية 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBKkdBX/mahdara.jpg" ,المحظرة
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rHNTYpR/sahle-TV.png" ,الساحل
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dGC37BT/moura.jpg" ,المرابطون
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9gRBGT9/watania.jpg" ,الوطنية
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CmpHSd7/dava.png" ,دافا
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/db9cHkV/chinguit.jpg" ,شنقيط
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2k7Tmnf/barlem.jpg" ,البرلمانية
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WVBwpmD/medina.jpg" ,المدينة
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
