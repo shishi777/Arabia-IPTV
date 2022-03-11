@@ -4,7 +4,7 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WataniaReplay/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6mcbcPg/watania2.png" ,الوطنية 2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Watania2Replay/live
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.letemps.news/wp-content/uploads/2022/03/nessma_el_jadida_1646850049.jpg" ,Nessma Ejdida
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" ,Nessma Ejdida
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" ,الحوار التونسي
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv
@@ -43,21 +43,3 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Radio
 http://188.165.181.186:1935/radiotn/nationale_video/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,rtci
 http://188.165.181.186:1935/radiotn/rtci_video/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Nessma Ejdida
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
