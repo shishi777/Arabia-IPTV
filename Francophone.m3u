@@ -1,0 +1,172 @@
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France",France 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,France 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,France 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,France 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,France Info
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TF 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TMC
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TFX
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TF Filme & Séries
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,LCI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,W9
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,6TER
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,GULLI
+https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Chérie 25
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,NRJ 12
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,RMC Story
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,RMC Découverte
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ARTE
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,L'ÉQUIPE
+http://www.callofliberty.fr/stream/LEQUIPE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,C Star 
+http://www.callofliberty.fr/stream/CSTAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,C8
+http://www.callofliberty.fr/stream/C8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,C News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Marseille
+https://bfmmarseille-lh.akamaihd.net/i/BFMMarseille_ESYTLS@427524/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Buisness
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,EURO NEWS FR
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM PARIS
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM GRAND LILLE
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM GRAND LITTORAL
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM DICI ALPES DU SUD
+https://bfmdicialpes-lh.akamaihd.net/i/BFMDICIAlpes_ESYTLS@67259/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM DICI Haute-Provence
+https://bfmdiciprovence-lh.akamaihd.net/i/BFMDICIProvence_ESYTLS@327955/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Nice Côte d'Azur
+https://bfmcotedazur-lh.akamaihd.net/i/BFMCotedAzur_ESYTLS@427520/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Toulon Var
+https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Europe
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Afrique
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Asie
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Maghreb-Orient
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde France Belgique Suisse Monaco
+https://p-alchimie-services-live.akamaized.net/tv5_monde/simple.isml/master.m3u8?e=1646947616&cf=1646947617&p=69&ci=20&cd=5&h=e6b2168f474e57b11af8ed5c04f24040&hdnts=exp=1646947617~acl=/tv5_monde/simple.isml/*~id=ABiKjThNRgsAYhGO~hmac=16054b37b3f3a7bc00c87bad96b485b3853f88a6675482b7ecf0760f9b9d7f60
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Pacifique
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Tivi5 Monde+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,FRANCE 24 FR
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,FRANCE 24 AR
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,FRANCE 24 EN
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,FRANCE 24 ES
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgique",La UNE
+http://www.callofliberty.fr/stream/laune/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TIPIK
+http://www.callofliberty.fr/stream/TiPiK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,La Trois 
+http://www.callofliberty.fr/stream/latrois/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Matele
+https://live.matele.be/hls/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Swisse",Rouge TV
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Canal Alpha Jura
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,La Tele
+http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canada",ICI RDI 
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Télé Culturelle Médias
+https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Canal Savoir 
+https://hls.savoir.media/live/stream.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
