@@ -138,7 +138,8 @@ https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x62islg
 #EXTINF:-1 tvg-id="" tvg-logo="",Wéo (Picardie) 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal32.fr/images/logo-canal32.jpeg" ,canal 32
+https://edge12.vedge.infomaniak.com/livecast/ik:canal32/chunklist.m3u8?spark=e91cf882-8230-4b67-bcf0-d140ef48cc9b&token=
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgique",La UNE
 http://www.callofliberty.fr/stream/laune/playlist.m3u8
@@ -181,7 +182,6 @@ https://hls.savoir.media/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
