@@ -89,8 +89,8 @@ https://adrar.ice.infomaniak.ch/01.aac
 https://chlef.ice.infomaniak.ch/02.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nnWsk1M/laghouat.png" ,Radio Laghouat الأغواط
 https://laghouat.ice.infomaniak.ch/03.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/tJnXmy7/oumelbouaghi.png" ,Radio Oum El Bouaqui أم البواقي OFF
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tJnXmy7/oumelbouaghi.png" ,Radio Oum El Bouaqui أم البواقي 
+https://oeb.ice.infomaniak.ch/04.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d5v2BjW/batna.png" ,Radio Batna باتنة
 https://batna.ice.infomaniak.ch/05.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L66qNBb/b-jaia.png" ,Radio Béjaia بجاية
