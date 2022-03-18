@@ -147,10 +147,31 @@ http://www.callofliberty.fr/stream/laune/playlist.m3u8
 http://www.callofliberty.fr/stream/TiPiK/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,La Trois 
 http://www.callofliberty.fr/stream/latrois/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/bp1Qp0d.png" ,LN24 (
+https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Matele
 https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Yg7vRos.jpg" g,Bel RTL 
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 tvg-id="" "tvg-logo="https://i.imgur.com/CDmCV2U.png",NRJ 
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/7ph3Ch1.png" g,Notélé 
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" ,RTC Liege 
+https://tvl-live.fl.freecaster.net/live/rtc/rtc.m3u8|Referer=https://rtc.fcst.tv/player/embed/3422309?loc=fr_FR&autoplay=false&muted=false
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/W0NWUzv.png",TvCom 
+https://tvl-live.fl.freecaster.net/live/tvcom/tvcom.m3u8|Referer=https://tvcom.fcst.tv/player/embed/3426118?loc=fr_FR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WWzV4cG.jpg" ,TV Lux
+https://tvl-live.fl.freecaster.net/live/tvlux/tvlux.m3u8|Referer=https://www.tvlux.be/live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDqOLg4.png" ,Télé MB 
+https://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8|Referer=https://telemb.fcst.tv/player/embed/3177890?autoplay=true&muted=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UUNOMPJ.png" ,Telesambre
+https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8|Referer=https://telesambre.fcst.tv/player/embed/3177895?autoplay=true&muted=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QkkNwQw.png" ,Vedia 
+https://tvl-live.fl.freecaster.net/live/vedia/vedia.m3u8|Referer=https://vedia.fcst.tv/player/embed/3426112?loc=fr_FR
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Swisse",Rouge TV
