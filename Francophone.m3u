@@ -96,47 +96,48 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-id="" ,7ALimoges 
+#EXTINF:-1 tvg-id="" tvg-logo="",7ALimoges 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
-#EXTINF:-1 tvg-id="",Alpe d’Huez TV 
+#EXTINF:-1 tvg-id="" tvg-logo="",Alpe d’Huez TV 
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" ,Alsace 20 
+#EXTINF:-1 tvg-id="" tvg-logo="",Alsace 20 
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" ,Antenne Réunion 
+#EXTINF:-1 tvg-id="" tvg-logo="",Antenne Réunion 
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="" ,BIP TV 
+#EXTINF:-1 tvg-id="" tvg-logo="",BIP TV 
 http://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" ,Central TV 
+#EXTINF:-1 tvg-id="" tvg-logo="",Central TV 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" ,France Inter 
+#EXTINF:-1 tvg-id="" tvg-logo="https://rsf.org/sites/default/files/logo-france-inter-reseaux.jpg",France Inter 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
-#EXTINF:-1 tvg-id="" s,Public Sénat
+#EXTINF:-1 tvg-id="" tvg-logo="https://lhetairie.fr/wp-content/uploads/2021/09/1200px-Logo_Public_S%C3%A9nat_2019.svg_.png",Public Sénat
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc
-#EXTINF:-1 tvg-id="" ,TébéSud 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tebesud.jpg",TébéSud 
 https://edge-live-ger1.ovstream.com/hls/10/source.m3u8
-#EXTINF:-1 tvg-id="",TV7 Bordeaux
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/TV7_Bordeaux.png",TV7 Bordeaux
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vGrlJbbfsE4
-#EXTINF:-1 tvg-id="",TV7 Colmar 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.bellefaye.com/uploads/media/5/b/5b1a3abe14d41.jpg",TV7 Colmar 
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" ,TV8 Mont-Blanc
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a7/TV8_Mont-Blanc_logo_2002.png",TV8 Mont-Blanc
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
-#EXTINF:-1 tvg-id="",TV78
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/ico_googleplay.png",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" ,TVR (Bretagne)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvr.bzh/favicon-1024.png",TVR (Bretagne)
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" ,viàMATÉLÉ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://viamatele.tv/fileadmin/via_main/img/logos/viaMATELE-header.png",viàMATÉLÉ 
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
-#EXTINF:-1 tvg-id="" ,viàMoselleTV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://moselle.tv/banniere/Logo_footer.png",viàMoselleTV 
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" ,viàOccitanie 
+#EXTINF:-1 tvg-id="" tvg-logo="",viàOccitanie 
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="" ,viàVosges 
+#EXTINF:-1 tvg-id="" tvg-logo="",viàVosges 
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" ,Wéo (Hauts-de-France)
+#EXTINF:-1 tvg-id="" tvg-logo="https://viatelepaese.tv/fileadmin/via_main/img/logos/viaTelePaese.png" ,VIÀTÉLÉPAESE
+https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Wéo (Hauts-de-France)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x62islg
-#EXTINF:-1 tvg-id="" ",Wéo (Picardie) 
+#EXTINF:-1 tvg-id="" tvg-logo="",Wéo (Picardie) 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgique",La UNE
@@ -179,7 +180,6 @@ https://hls.savoir.media/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
