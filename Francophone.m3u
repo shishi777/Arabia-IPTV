@@ -29,7 +29,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-id="" tvg-logo="" ,GULLI
 https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Chérie 25
-
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 #EXTINF:-1 tvg-id="" tvg-logo="" ,NRJ 12
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,RMC Story
@@ -43,7 +43,7 @@ http://www.callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,C Star 
 http://www.callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,C8
-http://www.callofliberty.fr/stream/C8/index.m3u8
+https://www.dailymotion.com/video/x5gv5rr#tab_embed.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,C News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
 #EXTINF:-1 tvg-id="" tvg-logo="" ,BFM 
@@ -140,6 +140,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canal32.fr/images/logo-canal32.jpeg" ,canal 32
 https://edge12.vedge.infomaniak.com/livecast/ik:canal32/chunklist.m3u8?spark=e91cf882-8230-4b67-bcf0-d140ef48cc9b&token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rFcLxa5.png",Albi TV
+https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgique",La UNE
 http://www.callofliberty.fr/stream/laune/playlist.m3u8
@@ -204,10 +206,10 @@ https://hls.savoir.media/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
+#EXTINF:-1 tvg-id="" tvg-logo="" ,canal+
+https://www.dailymotion.com/video/x5gv6be#tab_embed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,france info
+https://www.dailymotion.com/video/x4rdeu6#tab_embed.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
