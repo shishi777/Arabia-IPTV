@@ -120,10 +120,12 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canada",ICI RDI 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI-HD.png" group-title="Canada",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,ICI Tele Montreal
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" ,ICI Tele Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/TQcLogo_rgb_2020.png" ,Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Télé Culturelle Médias
 https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Canal Savoir 
@@ -135,7 +137,6 @@ https://hls.savoir.media/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
