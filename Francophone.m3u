@@ -209,7 +209,10 @@ https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
 https://hls.savoir.media/live/stream.m3u8
 
 
-
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",RTL Télé 
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dIEcLFY.png" ",RTL Zwee 
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8
 
 
 
