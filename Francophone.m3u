@@ -75,7 +75,7 @@ https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Afrique
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Asie
-
+http://125.227.210.37:8937/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Maghreb-Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde France Belgique Suisse Monaco
