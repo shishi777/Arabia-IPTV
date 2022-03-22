@@ -43,7 +43,7 @@ http://www.callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MctCH74/cstar.png" ,C Star 
 http://www.callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GRMf2HR/C8.webp" ,C8
-http://www.callofliberty.fr/stream/C8/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv5rr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LSgVQZ4/Canal-News.png" ,C News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b2hL1sv/BFM-TV-logo.png" ,BFM 
