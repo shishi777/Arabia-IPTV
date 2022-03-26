@@ -37,7 +37,7 @@ https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cLhJm01/RMC-D-couverte.png" ,RMC Découverte
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G7ST7C1/arte.png" ,ARTE
-
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TBvtD3q/L-quipe.png" ,L'ÉQUIPE
 http://www.callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MctCH74/cstar.png" ,C Star 
