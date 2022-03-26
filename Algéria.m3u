@@ -80,6 +80,16 @@ https://jil-fm.ice.infomaniak.ch/jilfm.aac
 https://listen.radioking.com/radio/6640/stream/63289
 #EXTINF:-1  tvg-logo="https://i.ibb.co/w4Q7FK0/beurfm.png",Beur FM
 http://beurfm.ice.infomaniak.ch/beurfm-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHo8stn.png" group-title="Jow Radio",jow radio
+https://ice.creacast.com/jowradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEsYJUP.png" group-title="",jow radio - Rap
+https://ice.creacast.com/jowradio-jow_rap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFOfQqG.png" group-title="",jow radio - Rai
+https://ice.creacast.com/jowradio-rai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEbRl2E.png" group-title="",jow radio - Dini
+https://ice.creacast.com/jowradio-diny
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mB5DDYP.png" group-title="",jow radio - North Africa
+https://ice.creacast.com/jowradio-north_africa
 
 
 
