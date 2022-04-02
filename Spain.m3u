@@ -1,0 +1,82 @@
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/la1.png",La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/la2.png",La 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/24h.png" ,24 Horas
+https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/tdp.png" ,TDP
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/clan.png" ,clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/antena3.png" ,Antenna 3
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DORq2qLWWIn_dpChBu--7XY
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/cuatro.png" ,Cuatro
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DH8OmsE4mKkHVZgI_okqY7g
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/telecinco.png" ,TeleCinco
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCWMZowBD-lNegiQbbEW6_g
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/lasexta.png" ,La Sexta
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDcv1dM0IuRvW9jgf_es27Y
+#EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/atreseries.png",A3Series Internacional
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/neox.png" ,Neox
+
+#EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/mega.png" ,Mega
+
+#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/nova.png" ,Nova
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/bemad.png" ,Be Mad
+
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/divinity.png" ,Divinity
+
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/energy.png" ,Energy
+
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/fdf.png" ,FDF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/dkiss.png" ,DKISS
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,DMAX
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/ten.png" ,TEN
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/trece.png" ,TRECE
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://www.canalsur.es/css/svg/logocanalsurpie.svg" ,Canal Sur
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="http://www.aragontelevision.es/css/css/images/logo-atv-pie.png" ",Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtpa.es/v3_assets/logo-rtpa-top.svg" ,TPA 7
+
+#EXTINF:-1 tvg-id="Canarias.TV" tvg-logo="https://rtvc.es/storage/2021/03/RTVC272.png" ,TV Canarias
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.laocho.tv/wp-content/themes/laochotv_2021/images/logo-ochotv.svg" ,La OCHO TV
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,7TV Castilla y León
+https://cdnlive.codev8.net/la7live/smil:channel1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/tv3.png" ,TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/324.png",324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/telemadrid.png" ,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" ,LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/etb1.png",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/etb2.png",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="RadioTelevisionMelilla.es" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/melilla.png",Radio Televisión Melilla 
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200",RTVCueta
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" ,Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" ,RTV Murcia
+https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA_paz.png" ,La 7 Rioja
+https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/es/tvgalicia.png" ,TV Galicia
+https://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" ,ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
