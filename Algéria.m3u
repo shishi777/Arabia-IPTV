@@ -43,13 +43,15 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Kzggt6D/Al24News.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GpdNPVQ/maghribia.jpg",AL Magharibia المغاربية 
-https://cutt.ly/DPKx7o0
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WkyGSZL/bahia.jpg"group-title="Local TV" ,Bahia TV Oran الباهية
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2v8zg2w/El-Fadjer.png" ,El Fadjr SBA الفجر
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Mf9RhH5/berbere.jpg" ,BERBERE TV Kabyle
 
+#EXTINF:-1  tvg-logo="" ,Bel Media Music Kabyle
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CBDyrNJ/elheddaf.png" group-title="Sports TV",El Heddaf Sport الهدّاف
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LnVqTnH/samira.png" group-title="Women's" ,Samira TV سميرة 
