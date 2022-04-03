@@ -13,7 +13,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franc
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LRv6NyZ/tf1.png" ,TF 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xgkByhz/tmc.png" ,TMC
-
+http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w6FmfY7/tfx.png" ,TFX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GsvTbNh/tf1fs.png" ,TF1 Filme & Séries
