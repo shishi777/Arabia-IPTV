@@ -20,7 +20,7 @@ http://stream.suboroiptv.tv/TMC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jTppspg/lci.png" ,LCI
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,M6
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/m6.png" ,M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7XLcXWM/w9.png" ,W9
 
@@ -70,13 +70,13 @@ https://bfmdiciprovence-lh.akamaihd.net/i/BFMDICIProvence_ESYTLS@327955/master.m
 https://bfmcotedazur-lh.akamaihd.net/i/BFMCotedAzur_ESYTLS@427520/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,BFM Toulon Var
 https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Europe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/tv5mondeeurope.png" ,TV5 Monde Europe
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Afrique
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/tv5mondeafrique.png" ,TV5 Monde Afrique
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Asie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/tv5mondeasie.png" ,TV5 Monde Asie
 http://125.227.210.37:8937/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Maghreb-Orient
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/tv5mondemaghreborient.png" ,TV5 Monde Maghreb-Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde France Belgique Suisse Monaco
 https://p-alchimie-services-live.akamaized.net/tv5_monde/simple.isml/master.m3u8?e=1647612564&cf=1647612565&p=69&ci=20&cd=5&h=e3fb06a26f8ffe78492284b4b6118916&hdnts=exp=1647612565~acl=/tv5_monde/simple.isml/*~id=ABiNFpVnRyQAOV6I~hmac=5d0d6c97bead2dd37ad40154d943de9f4dc9879bf6f152999195524ddbe50135
@@ -154,17 +154,17 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Belgique",La UNE
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/laune.png" group-title="Belgique",La UNE
 http://www.callofliberty.fr/stream/laune/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TIPIK
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/ladeux.png" ,TIPIK
 http://www.callofliberty.fr/stream/TiPiK/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,La Trois 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/latrois.png" ,La Trois 
 http://www.callofliberty.fr/stream/latrois/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/bp1Qp0d.png" ,LN24 (
+#EXTINF:-1 tvg-id=""  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/ln24.png" ,LN24 
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,BX1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/bx1.png" ,BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Matele
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/be/matele.png",Matele
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Yg7vRos.jpg" g,Bel RTL 
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
