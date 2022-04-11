@@ -1,9 +1,9 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tXrhp87/france-2.png" group-title="France",France 2
-
+http://www.callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McQ0jqs/france-3.png" ,France 3
-
+http://www.callofliberty.fr/stream/france.3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VgGLS8Y/france-4.png" ,France 4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7GqKLy3/france-5.png" ,France 5
@@ -37,7 +37,7 @@ https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cLhJm01/RMC-D-couverte.png" ,RMC Découverte
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G7ST7C1/arte.png" ,ARTE
-http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
+http://www.callofliberty.fr/stream/ARTE/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TBvtD3q/L-quipe.png" ,L'ÉQUIPE
 http://www.callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MctCH74/cstar.png" ,C Star 
