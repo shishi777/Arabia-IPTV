@@ -78,8 +78,10 @@ https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
 http://125.227.210.37:8937/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/logos/master/fr/tv5mondemaghreborient.png" ,TV5 Monde Maghreb-Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde France Belgique Suisse Monaco
-https://p-alchimie-services-live.akamaized.net/tv5_monde/simple.isml/master.m3u8?e=1647612564&cf=1647612565&p=69&ci=20&cd=5&h=e3fb06a26f8ffe78492284b4b6118916&hdnts=exp=1647612565~acl=/tv5_monde/simple.isml/*~id=ABiNFpVnRyQAOV6I~hmac=5d0d6c97bead2dd37ad40154d943de9f4dc9879bf6f152999195524ddbe50135
+https://p-alchimie-services-live.akamaized.net/tv5_monde/simple.isml/master.m3u8?e=1650044038&cf=1650044039&p=69&ci=20&cd=5&h=96d8b83db698e30d3248a95e14cd61c9&hdnts=exp=1650044039~acl=/tv5_monde/simple.isml/*~id=ABiWXRHJ-akAZWC2~hmac=e5bffdb9f9b13c587cc06f1c0aafec3813a53a267e0bf8d4b0514a544e014f24
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TV5 Monde Pacifique
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Tivi5 Monde+
