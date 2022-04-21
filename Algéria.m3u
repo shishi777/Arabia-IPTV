@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="National TV" ,Algeria 1 الأولى
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="National TV" ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2.png" ,Canal Algérieالثانية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérieالثانية
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2sjMSjk/eptvnews.png" ,A3 News الإخبارية 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6m4vQNT/eptv4.png" , TV 4 Tamazighth الأمازيغية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" , TV 4 Tamazighth الأمازيغية
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/B4sWw34/eptv5.png" ,TV 5 Quran القرآن الكريم
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV5.png" ,TV 5 Quran القرآن الكريم
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/TwNqKYZ/eptv6.png" ,Algeria 6 السّادسة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV6.png" ,Algeria 6 السّادسة
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6Xhf485/eptv7.png" , TV 7 El Maarifa المعرفة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV7.png" , TV 7 El Maarifa المعرفة
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/SJx0hPj/eptv8.png" ,TV 8 Edhakira الذّاكرة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" ,TV 8 Edhakira الذّاكرة
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Echourouk.jpg", Echorouk HD الشروق 
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Echourouk.jpg", Echorouk HD الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Echourouk.jpg", Echorouk HD الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tq2DShW/btv.png" ,BTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/btv.png" ,BTV
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" , El Bilad البلاد
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
