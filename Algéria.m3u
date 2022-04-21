@@ -91,7 +91,7 @@ https://adrar.ice.infomaniak.ch/01.aac
 https://chlef.ice.infomaniak.ch/02.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/laghouat.png" ,Radio Laghouat الأغواط
 https://laghouat.ice.infomaniak.ch/03.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/tJnXmy7/oumelbouaghi.png" ,Radio Oum El Bouaqui أم البواقي 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/oumelbouaghi.png" ,Radio Oum El Bouaqui أم البواقي 
 https://oeb.ice.infomaniak.ch/04.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d5v2BjW/batna.png" ,Radio Batna باتنة
 https://batna.ice.infomaniak.ch/05.aac
@@ -135,15 +135,15 @@ https://guelma.ice.infomaniak.ch/24.aac
 https://Constantine.ice.infomaniak.ch/25.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/medea.png" ,Médéa المدية 
 https://medea.ice.infomaniak.ch/26.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kgSw8rf/mosta.png" ,Mostaganem مستغانم 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/mosta.png" ,Mostaganem مستغانم 
 https://mostaganem.ice.infomaniak.ch/27.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/v4L10M1/msila.png" ,M'sila المسيلة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/msila.png" ,M'sila المسيلة
 https://msila.ice.infomaniak.ch/28.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/mascara.png" ,Mascara معسكر
 https://mascara.ice.infomaniak.ch/29.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WkczTfv/ourgla.png" ,Ourgla ورقلة 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ourgla.png" ,Ourgla ورقلة 
 https://ourgla.ice.infomaniak.ch/30.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/884tMwL/oran.png" ,Oran وهران
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/oran.png" ,Oran وهران
 https://oran.ice.infomaniak.ch/31.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/RBdS38r/bayadh.png" ,El Bayadh البيض
 https://elbayadh.ice.infomaniak.ch/32.aac
@@ -159,7 +159,7 @@ https://taref.ice.infomaniak.ch/36.aac
 https://tindouf.ice.infomaniak.ch/37.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bQJydZm/tissemssilt.png" ,Tissemssilt تيسمسيلت
 https://tissemssilt.ice.infomaniak.ch/38.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/fxd50NG/oued.png" ,El Oued الوادي
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/oued.png" ,El Oued الوادي
 https://eloued.ice.infomaniak.ch/39.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/khenchella.png" ,Khenchella خنشلة
 https://khenchella.ice.infomaniak.ch/40.aac
@@ -171,11 +171,11 @@ https://tipaza.ice.infomaniak.ch/42.aac
 https://milla.ice.infomaniak.ch/43.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vDsLTxP/aindefla.png" ,Ain Defla عين الدفلة
 https://aindefla.ice.infomaniak.ch/44.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kXN0zYn/naama.png" ,Naama النعامة 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/naama.png" ,Naama النعامة 
 https://naama.ice.infomaniak.ch/45.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d5tqHLy/ain-temouchent.png" ,Ain Temouchent عين تموشنت
 https://aintemouchent.ice.infomaniak.ch/46.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ghardaia.png" ,Ghardaia غارداية
 https://ghardaia.ice.infomaniak.ch/47.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/PjBM3qw/relizane.png" ,Ghélizane غليزان 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/relizane.png" ,Ghélizane غليزان 
 https://ghelizane.ice.infomaniak.ch/48.aac
