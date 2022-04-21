@@ -105,13 +105,13 @@ https://bechar.ice.infomaniak.ch/08.aac
 https://blida.ice.infomaniak.ch/09.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8D6bpS9/bouira.png" ,Bouira البويرة 
 https://bouira.ice.infomaniak.ch/10.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/m5Q4QqL/tamaghast.png" ,Tamenghasst تامنغست
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/tamaghast.png" ,Tamenghasst تامنغست
 https://tamenraset.ice.infomaniak.ch/11.aac
 #EXTINF:-1  tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---012.png" ,Tébessa تبسة
 https://tebessa.ice.infomaniak.ch/12.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6nBpMr5/tlemcen.png" ,tlemcen تلمسان
 https://tlemcen.ice.infomaniak.ch/13.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/jvggksb/tiaret.png" ,Tiaret تيارت
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/tiaret.png" ,Tiaret تيارت
 https://tiaret.ice.infomaniak.ch/14.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9TRcM9R/tiziouzou.png" ,Tizi Ouazou تيزي وزو
 https://tiziouzou.ice.infomaniak.ch/15.aac
@@ -119,13 +119,13 @@ https://tiziouzou.ice.infomaniak.ch/15.aac
 https://djelfa.ice.infomaniak.ch/17.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pJLQqb1/jijel.png" ,Jijel جيجل
 https://jijel.ice.infomaniak.ch/18.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cYp1pdV/s-tif.png" ,Séttif سطيف
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/setif.png" ,Séttif سطيف
 https://setif.ice.infomaniak.ch/19.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dGGB5dh/saida.png" ,Saaida سعيدة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/saida.png" ,Saaida سعيدة
 https://saida.ice.infomaniak.ch/20.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2WV9Czt/skikda.png" ,Skikda سكيكدة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/skikda.png" ,Skikda سكيكدة
 https://skikda.ice.infomaniak.ch/21.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dj4qvSD/sidbba.png" ,Sidi Belaabas سيدي بلعباس
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/sidbba.png" ,Sidi Belaabas سيدي بلعباس
 https://sidibelabas.ice.infomaniak.ch/22.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yknP5dX/annaba.png" ,Annaba عنابة
 https://annaba.ice.infomaniak.ch/23.aac
@@ -153,19 +153,19 @@ https://illizi.ice.infomaniak.ch/33.aac
 https://bordjbouariridj.ice.infomaniak.ch/34.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZJzSRrk/boumerdess.png" ,Boumerdés بومرداس 
 https://boumerdes.ice.infomaniak.ch/35.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/RSKnCQG/taref.png" ,'Taref الطارف
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/taref.png" ,'Taref الطارف
 https://taref.ice.infomaniak.ch/36.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/KV5NdLN/tindouf.png" ,Tindouf تندوف
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/tindouf.png" ,Tindouf تندوف
 https://tindouf.ice.infomaniak.ch/37.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQJydZm/tissemssilt.png" ,Tissemssilt تيسمسيلت
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/tissemssilt.png" ,Tissemssilt تيسمسيلت
 https://tissemssilt.ice.infomaniak.ch/38.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/oued.png" ,El Oued الوادي
 https://eloued.ice.infomaniak.ch/39.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/khenchella.png" ,Khenchella خنشلة
 https://khenchella.ice.infomaniak.ch/40.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/VC8Zcvs/soukahrass.png" ,Souq Ahrass سوق أهراس
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/soukahrass.png" ,Souq Ahrass سوق أهراس
 https://soukahrass.ice.infomaniak.ch/41.aac
-#EXTINF:-1  tvg-logo="https://i.ibb.co/M6pspHg/tipaza.png" ,Tipaza تيبازة
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/tipaza.png" ,Tipaza تيبازة
 https://tipaza.ice.infomaniak.ch/42.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/mila.png" ,Milla ميلة 
 https://milla.ice.infomaniak.ch/43.aac
