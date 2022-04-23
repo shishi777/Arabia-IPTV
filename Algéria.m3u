@@ -82,14 +82,16 @@ https://coran.ice.infomaniak.ch/coran.aac
 https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/jilfm.png" ,Jil FM
 https://jil-fm.ice.infomaniak.ch/jilfm.aac
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/jilfm.png" ,UFC جامعة التكوين المتواصل
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ufc.png" ,UFC جامعة التكوين المتواصل
 https://ufc.ice.infomaniak.ch/ufc-32.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/antin-a.png" group-title="إذاعات المهجرRadio Diaspora📻 ",RADIO ANTINEA BERBERE 
 https://listen.radioking.com/radio/6640/stream/63289
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/beurfm.png",Beur FM
 http://beurfm.ice.infomaniak.ch/beurfm-high.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOW.png" group-title="Jow Radio",jow radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOW.png" group-title="Radio Priveé الإذاعات الخاصة",jow radio
 https://ice.creacast.com/jowradio
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/radiom.png",RADIO M
+https://radio-dzair.net/proxy/radiom?mp=/stream
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/adrar.png" group-title="الإذاعة المحلّيةRadio Locale📻 " ,Radio Adrar أدرار
 https://adrar.ice.infomaniak.ch/01.aac
