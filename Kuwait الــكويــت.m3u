@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png" ,Kuwait TV1
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktv2.png" ,Kuwait TV 2 English
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport.png" ,Kuwait Sport
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Kuwait Drama
+https://kwmedia.hibridcdn.net/kwmedia/kwtvkids_abr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ethraa.png" ,Kuwait Ithraa
+https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Kuwait Al Araby
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alqurain.png" ,Kuwait Qurain
+https://kwmedia.hibridcdn.net/kwmedia/kwtvqurain_abr/kwmedia/kwtvqurain_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport2.png" ,Kuwait Sport +
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/AlMajlis-1-200x150.png" ,Al Majlis
+https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png" ,Scoop Tv
+https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.atvkuwait.com/img/logo/atv_logo.png" ,Adalla TV
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/funoon.png" ,Funoon TV
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alsabah.png" ,Assabah TV
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alshahed.png" ,Asshahed TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
+
+
+
+
+
