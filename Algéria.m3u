@@ -98,7 +98,7 @@ https://radio-dzair.net/proxy/radiom?mp=/stream
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/adrar.png" group-title="الإذاعة المحلّيةRadio Locale📻 " ,Radio Adrar أدرار
 https://adrar.ice.infomaniak.ch/01.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/chlef.png" ,Radio Chlef الشلف 
-https://chlef.ice.infomaniak.ch/02.aac
+https://webradio.tda.dz/Chlef_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/laghouat.png" ,Radio Laghouat الأغواط
 https://laghouat.ice.infomaniak.ch/03.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/oumelbouaghi.png" ,Radio Oum El Bouaqui أم البواقي 
