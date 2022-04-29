@@ -1,0 +1,12 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png" ,Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omansports.png" ,Oman Sports
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omancultural.png" ,Oman Culture
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omanlive.png" ,Oman Live
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/alistiqama.png" ,Al Istiqama
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
