@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,Saab TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://somaliiptv.com/wp-content/uploads/2018/08/somali-cable-tv.png" ,Somali Cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://somaliiptv.com/wp-content/uploads/2018/08/sntv-qaranka.png" ,Somali National
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
+
