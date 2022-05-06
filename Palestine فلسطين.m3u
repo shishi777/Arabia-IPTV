@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" ,Palestine TV
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Palestine LIVE
@@ -32,4 +29,9 @@ https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png" ,Falastini Tv
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rajeen.tv/logo.png" ,Rajeen
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nablustv.net/images/web_16.png" ,Nablus tv
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mawwal.ps/ar/wp-content/uploads/2015/01/download1.jpg" ,Mawal Radio 
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
