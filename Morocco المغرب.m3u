@@ -63,13 +63,13 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_r
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NS8YJh0/med-radio.png" ,Med Radio
 https://streamer.eagrpservices.com//audio//medradio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGDwLZx/chadafm.png" ,Chada FM
-https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3
+https://streamer.eagrpservices.com/audio/chadafm.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/16Rr2gf/radio-mars.png" ,Radio Mars
 https://streamer.eagrpservices.com/audio/radiomars.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wss1Y02/hitradio.png" ,HIT Radio
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7Jzv1Zq/rsoleil.png" ,Radio Soleil
-https://radiosoleil.ice.infomaniak.ch/radiosoleil-32.mp3
+http://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2sWLDn6/capradio.png" ,CAP Radio
 https://streamer.eagrpservices.com/audio/capradio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXzw2Vz/mfmradio.png" ,MFM Radio 
