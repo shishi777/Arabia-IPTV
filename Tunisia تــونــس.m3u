@@ -11,7 +11,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" ,الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7LBNPH/9tv.jpg" ,التاسعة
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PBSIzhhzD1M&ab_channel=AttessiaTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvDvWSg/carthage.jpg" ,قرطاج+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,تونسنا
