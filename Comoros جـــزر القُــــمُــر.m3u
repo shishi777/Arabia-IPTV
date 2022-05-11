@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/Ortc-logo.jpg" ,ORTC 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/Ortc-logo.jpg" ,ORTC RADIO
+https://rtmc.ice.infomaniak.ch/rtmc-32.mp3
