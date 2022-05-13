@@ -39,8 +39,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TEN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY&ab_channel=%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY
 #EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS +2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y4ws3LzEV0U&ab_channel=%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y4ws3LzEV0U
 #EXTINF:-1 tvg-id="" tvg-logo="" ,MASPERO ZAMAN
 https://channelsarabia.xyz/4_.m3u8|Referer=https://live.qanwat-live.com/2021/06/maspero-zaman.html
