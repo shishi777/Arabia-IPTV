@@ -32,7 +32,24 @@ https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,كويت اف ام / Kuwait FM 103.7
+https://kwmedia.hibridcdn.net/kwmedia/kwfm/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,98.9 القرآن الكريم / AlQuran Alkarem 98.9
+https://kwmedia.hibridcdn.net/kwmedia/kwholyquran/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,سوبر ستيشن / Super Staion FM 99.7
+https://kwmedia.hibridcdn.net/kwmedia/kwsuper/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,89.5 البرنامج العام / Kuwait Radio One 89.5
+https://kwmedia.hibridcdn.net/kwmedia/kwradio1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,93.9 صوت الشباب / OFM 93.9
 
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الشعبية / Traditional Station 94.9
+https://kwmedia.hibridcdn.net/kwmedia/kwshaabiya/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الغناء العربي القديم / The Old Arabic Singing 87.9
+https://kwmedia.hibridcdn.net/kwmedia/kwclassical/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ايزي اف ام / Easy 92.5
+https://kwmedia.hibridcdn.net/kwmedia/kweasy/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,97.5 البرنامج الثاني / Kuwait Radio Two 97.5
+https://kwmedia.hibridcdn.net/kwmedia/kwradio2/chunks.m3u8
 
 
 
