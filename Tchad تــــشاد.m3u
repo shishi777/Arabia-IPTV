@@ -1,0 +1,5 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png" ,Télé Tchad
+https://strfla209.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.toumaiwebmedias.com/wp-content/uploads/2019/05/onrtv.jpg" ,Radio Nationale Tchad
+https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio
