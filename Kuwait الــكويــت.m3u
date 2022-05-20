@@ -31,6 +31,8 @@ https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7b3738_c28c3019ad0f4881871d46464187a739~mv2.png" ,360FM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=SpWYuNDrIMU
 #EXTINF:-1 tvg-id="" tvg-logo="" ,كويت اف ام / Kuwait FM 103.7
 https://kwmedia.hibridcdn.net/kwmedia/kwfm/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,98.9 القرآن الكريم / AlQuran Alkarem 98.9
