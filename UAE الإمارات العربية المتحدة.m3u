@@ -59,3 +59,5 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" ,Al Aan
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
+#EXTINF:-1 tvg-id="" tvg-logo="http://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1-219x300.png" ,al dafrah tv
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
