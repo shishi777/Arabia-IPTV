@@ -16,7 +16,7 @@ https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" ,TV 8 Edhakira الذّاكرة
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,El Barlamaniya البرلمانية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elbarlamaniya.png" ,El Barlamaniya البرلمانية
 
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
