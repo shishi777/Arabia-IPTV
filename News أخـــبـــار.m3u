@@ -26,7 +26,7 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" ,DW ARA صوت ألمانيا
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" ,FRANCE 24 ARA فرنسا 24
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT ARA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png" CGTN ARA
