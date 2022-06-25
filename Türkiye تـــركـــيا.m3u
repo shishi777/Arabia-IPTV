@@ -1,0 +1,40 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trt1.png" ,TRT 1
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trt2.png" ,TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtspor.png" ,TRT SPOR
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtsporyildiz.png" ,TRT SPOR YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trthaber.png" ,TRT HABER
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtturk.png" ,TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtavaz.png" ,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtbelgesel.png" ,TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtcocuk.png" ,TRT COKUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtkurdi.png" ,TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtarabi.png" ,TRT ARABIC
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtworld.png" ,TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtmuzik.png" ,TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/startv.png" ,STAR
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/showtv.png" ,SHOW
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/atv.png" ,ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="FoxTurkey.us" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/259-101_import.png" ,FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/kanald.png" ,KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/tv8.png" ,TV8
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
