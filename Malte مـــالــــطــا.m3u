@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mt/tvmi.mt.epg.xml"
+
+#EXTINF:-1 tvg-ID="TVM.mt" tvg-name="TVM" tvg-logo="https://www.tvmi.mt/mt/wp-content/themes/tvm/dist/images/tvm-logo-2021.png" group-title="",TVM
+http://a5.smashmalta.com:82/live/isuku/midoriya/7.ts
+#EXTINF:-1 tvg-ID="TVMNewsPlus.mt" tvg-name="TVM2" tvg-logo="https://www.tvmi.mt/mt/wp-content/themes/tvm/dist/images/tvm-news-logo-2021.png" group-title="",TVM NEWS
+http://a5.smashmalta.com:82/live/isuku/midoriya/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ONE" tvg-logo="http://frontend.smashmalta.com/iconsnew/one.png" group-title="",ONE
+http://a5.smashmalta.com:82/live/isuku/midoriya/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NET" tvg-logo="http://frontend.smashmalta.com/iconsnew/net.png" group-title="",NET
+http://a5.smashmalta.com:82/live/isuku/midoriya/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Parliament TV" tvg-logo="http://frontend.smashmalta.com/iconsnew/parliament.png" group-title="",Parliament TV
+http://a5.smashmalta.com:82/live/isuku/midoriya/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UTV Mission" tvg-logo="http://www.xejkmalta.com/images/xejkoriginalsize.jpg" group-title="",Xejk
+http://a6.smashmalta.com:82/live/urusei/yatsura/13.ts
