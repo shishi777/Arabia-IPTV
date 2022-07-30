@@ -10,7 +10,7 @@ https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seraj.tv/style/atyaf/assets/images/logo.png" ,Al Aqsa Channel 
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://playback.dacast.com/content/access?contentId=5a3ac7d4-5f58-ec1b-41a7-edbc9c0400b7-live-7fa5c3a3-3790-dbb6-173d-beffdc3663a6&provider=universe
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,El Fajer tv1
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alfajertv&t=7fdd7b0eb7f588cb7c3dca635b4b9027
+http://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alfajertv&t=d84deb497c016b855836947a910f2f4e
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,El Fajer tv2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo.svg" ,Ajyal TV 
