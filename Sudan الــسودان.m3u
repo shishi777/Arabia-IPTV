@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+#EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,Sudan TV
+https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
+
+
